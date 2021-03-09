@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     alignItems: 'stretch',
     width: '75%',
     aspectRatio: 1,
-    borderRadius: 20,
+    borderRadius: 25,
     flexDirection: "column",
     padding: 20,
     backgroundColor: 'white',
